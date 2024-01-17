@@ -124,6 +124,11 @@ allign
     border-top-right-radius: 20px;
   }
 
+  /*세로 크기 요인을 수정*/
+  .gridItem {
+    height: 30em;
+  }
+
   .category {
     padding-top: 0; /*초기화 설정*/
   }
